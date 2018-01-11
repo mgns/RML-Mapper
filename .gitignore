@@ -1,6 +1,8 @@
 
 *.jar
 
+.idea
+*.iml
 .project
-.settings/
-target/
+.settings
+target
